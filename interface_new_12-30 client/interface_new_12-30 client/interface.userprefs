@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\main menu\difficulty.cs">
+    <Files>
+      <File FileName="Assets\Script\game interface\NoteSpawn.cs" Line="29" Column="14" />
+      <File FileName="Assets\Script\main menu\buttonPress.cs" Line="16" Column="9" />
+      <File FileName="Assets\Script\main menu\difficulty.cs" Line="24" Column="4" />
+      <File FileName="Assets\Script\game interface\AudioSelect.cs" Line="15" Column="6" />
+      <File FileName="Assets\Script\song menu\songButton.cs" Line="51" Column="25" />
+      <File FileName="Assets\Script\main menu\buttonid.cs" Line="12" Column="6" />
+      <File FileName="Assets\Script\1stScene\ChgScene.cs" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1stScene.unity
+    guid: 70e649baaed2b0f4cb5ca7b7fc914777
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 4bb4b10521a4da34da6bce4874614671
+  - enabled: 1
+    path: Assets/Scenes/multiplayerGameInterface.unity
+    guid: 0dc00add797b5f84799f8aa0bf26d747
+  - enabled: 1
+    path: Assets/Scenes/gameInterface.unity
+    guid: 449719e8ac63a49458f2076f4dcd2294
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 94e97d49971cf7547a3bd6f30dfda3b3
+  - enabled: 1
+    path: Assets/Scenes/difficulty.unity
+    guid: 0cd1a65ea972521499c3b05a9146d8f7
+  - enabled: 1
+    path: Assets/Scenes/result.unity
+    guid: deb8da538a898ed4dbadad1dbf382b26
+  - enabled: 1
+    path: Assets/Scenes/VsGameInterface.unity
+    guid: 8459cf1bfded9814280bec62f4f5f366
+  - enabled: 1
+    path: Assets/Scenes/vsresult.unity
+    guid: 7719fd12ef2320e42a558dfc522c0b42
+  - enabled: 1
+    path: Assets/Scenes/coopresult.unity
+    guid: 5aef54a0594e1524490d6ff71ee5bc16
+  m_configObjects: {}
